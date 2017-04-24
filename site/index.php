@@ -2,8 +2,14 @@
 
 <html>
 <head>
+<style>
+h1 {
+font-size=70;	
+	
+} 
+</style>
 	<title> welcome world </title>
-	<link rel="stylesheet" href="stylesheet.css">
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
 	<h1> ok man we have done it </h1>
